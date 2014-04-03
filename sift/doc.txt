@@ -1,0 +1,114 @@
+Image matching is a fundamental aspect of many problems in co
+mputer vision, including
+object or scene recognition, solving for 3D structure from m
+ultiple images, stereo correspon-
+dence, and motion tracking. This paper describes image feat
+ures that have many properties
+that make them suitable for matching differing images of an o
+bject or scene. The features are
+invariant to image scaling and rotation, and partially inva
+riant to change in illumination and
+3D camera viewpoint. They are well localized in both the spat
+ial and frequency domains, re-
+ducing the probability of disruption by occlusion, clutter
+, or noise. Large numbers of features
+can be extracted from typical images with efficient algorith
+ms. In addition, the features are
+highly distinctive, which allows a single feature to be corr
+ectly matched with high probability
+against a large database of features, providing a basis for o
+bject and scene recognition.
+The cost of extracting these features is minimized by taking
+a cascade filtering approach,
+in which the more expensive operations are applied only at lo
+cations that pass an initial test.
+Following are the major stages of computation used to genera
+te the set of image features:
+1.
+Scale-space extrema detection:
+The first stage of computation searches over all scales
+and image locations. It is implemented efficiently by using a
+difference-of-Gaussian
+function to identify potential interest points that are inv
+ariant to scale and orientation.
+2.
+Keypoint localization:
+At each candidate location, a detailed model is fit to determi
+ne
+location and scale. Keypoints are selected based on measure
+s of their stability.
+3.
+Orientation assignment:
+One or more orientations are assigned to each keypoint lo-
+cation based on local image gradient directions. All future
+operations are performed
+on image data that has been transformed relative to the assig
+ned orientation, scale, and
+location for each feature, thereby providing invariance to
+these transformations.
+4.
+Keypoint descriptor:
+The local image gradients are measured at the selected scale
+in the region around each keypoint. These are transformed in
+to a representation that
+allows for significant levels of local shape distortion and c
+hange in illumination.
+This approach has been named the Scale Invariant Feature Tra
+nsform (SIFT), as it transforms
+image data into scale-invariant coordinates relative to lo
+cal features.
+An important aspect of this approach is that it generates lar
+ge numbers of features that
+densely cover the image over the full range of scales and loca
+tions. A typical image of size
+500x500 pixels will give rise to about 2000 stable features (
+although this number depends on
+both image content and choices for various parameters). The
+quantity of features is partic-
+ularly important for object recognition, where the ability
+to detect small objects in cluttered
+backgrounds requires that at least 3 features be correctly m
+atched from each object for reli-
+able identification.
+For image matching and recognition, SIFT features are first e
+xtracted from a set of ref-
+erence images and stored in a database. A new image is matched
+by individually comparing
+each feature from the new image to this previous database and
+finding candidate match-
+ing features based on Euclidean distance of their feature ve
+ctors. This paper will discuss
+fast nearest-neighbor algorithms that can perform this com
+putation rapidly against large
+databases.
+The keypoint descriptors are highly distinctive, which all
+ows a single feature to find its
+correct match with good probability in a large database of fe
+atures. However, in a cluttered image, many features from the background will not have any co
+rrect match in the database,
+giving rise to many false matches in addition to the correct o
+nes. The correct matches can
+be filtered from the full set of matches by identifying subset
+s of keypoints that agree on the
+object and its location, scale, and orientation in the new im
+age. The probability that several
+features will agree on these parameters by chance is much low
+er than the probability that
+any individual feature match will be in error. The determina
+tion of these consistent clusters
+can be performed rapidly by using an efficient hash table impl
+ementation of the generalized
+Hough transform.
+Each cluster of 3 or more features that agree on an object and i
+ts pose is then subject
+to further detailed verification. First, a least-squared es
+timate is made for an affine approxi-
+mation to the object pose. Any other image features consiste
+nt with this pose are identified,
+and outliers are discarded. Finally, a detailed computatio
+n is made of the probability that a
+particular set of features indicates the presence of an obje
+ct, given the accuracy of fit and
+number of probable false matches. Object matches that pass a
+ll these tests can be identified
+as correct with high confidence.

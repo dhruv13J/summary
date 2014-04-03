@@ -1,0 +1,66 @@
+Google launched its latest own-brand smartphone with little fanfare. A simple press release, then two hours later the LG-manufactured Google Nexus 5 was available to buy.
+
+The phone itself is a big deal, though. It is, quite simply, amazing value. Almost everything about the Nexus 5's specification is top-drawer, from its Snapdragon 800 processor to its Full HD screen and the very latest version of Android; 4.4 KitKat (now updated to 4.4.2, see below). Phones with this kind of specification are usually more than £500 SIM-free, but the Nexus 5, astonishingly, is over £200 cheaper than that.
+
+Android 4.4 KitKat is also an impressive update to the operating system, which not only brings improved performance and more features, but is the first stock version of Android to look properly attractive. We normally don’t mind when Sony, Motorola and Samsung, for example, add custom skins to their Android builds, but we prefer the way 4.4 looks to any custom version of the OS. For more on Android 4.4, see the section below.
+
+The Nexus 5 is amazing value for a top-drawer smartphone, but if you're on a serious budget don’t forget about the Motorola Moto G: a fully-featured Android 4.3 smartphone for just £130, which will be updated to Android 4.4 in January. 
+
+The Nexus 5 isn't cheap, but it's a bargain for what you get
+
+The handset doesn’t feel cheap. It's a simple slab with rounded-off corners and a pleasing rubberised rear, which we think feels classier than the shinier Samsung Galaxy S4. You don’t get the super-classy build quality of the metal-and-glass Sony Xperia Z1 or the metal unibody HTC One, but the phone's chassis is classy enough to match its internal components. 
+
+NEXUS 5 DISPLAY
+
+The Nexus 5 has a 5in 1,920x1,080 display, which is fast becoming the standard for high-end smartphones. We struggled to find fault with the IPS panel. Whites are pure, text is super-sharp, and the touchscreen surface has just the right amount of resistance to finger dragging to make it a pleasure to use. Side by side with the very best screens, such as the AMOLED panel of the Nokia Lumia 925, the Nexus 5's display has lower contrast and less saturated colours, but comparing screens of this quality just comes down to splitting hairs. 
+
+NEXUS 5 SPECS AND BENCHMARKS
+
+The phone's quad-core processor runs at 2.2GHz, and leads to seriously snappy performance. The Nexus 5 completed the Sunspider JavaScript benchmark in 706ms - quicker than even the Sony Xperia Z1, our previous Android Sunspider champion. It also managed a huge 17,496 in the 3DMark Unlimited benchmark, which is up there with the Z1 for 3D performance; good-looking 3D games such as Real Racing 3 ran beautifully. 
+
+
+NEXUS 5 ANDROID 4.4
+
+With benchmark figures like these, it's no surprise that the Google Nexus 5 runs Android 4.4 beautifully (recently slightly updated to 4.4.2, see below), ripping through menus, opening apps and panning around web pages with rarely a hesitation. Android 4.4 is by far the most attractive version yet of Google's operating system. The redesigned, larger icons, more modern compressed fonts and coloured backgrounds make it look far more like a consumer interface than an engineer's plaything; stock Android has now caught up with the custom editions from Sony and Motorola for attractiveness. 
+
+Aside from the redesign, the OS has been tweaked to make Google's services more tightly integrated. Swiping left from the main homescreen now goes straight to Google Now, which displays a number of cards relating to your recent activities on Google; if you've searched for a place on Google Maps, for example, if will automatically display a route based on whether you usually walk, drive or take public transport. You can also set Home and Work addresses, and Google Now will display weather information for those two locations automatically. You can also set it up to display customised stock information or sports results, among other things.
+
+We didn’t find Google Now life-changing, but it was useful; we just wish it could work out that an extra three minutes' walk to a different London Underground station would shave 20 minutes off the recommended route and cut out a couple of changes. 
+
+
+Swipe left from the home screen to access Google Now's dynamically-updated information cards
+
+The Phone app now searches for local places as well as through your contacts, so you don’t have to search for a place through Maps or your browser then plug the phone number into the Phone app; you search and phone from the same place. There have also apparently been some improvements to the voice search; we found it worked reasonably well, letting us navigate to places with distinctive names (Leicester and Croydon were fine, Purley was more likely to take us to the East End of London than the South) but we'd still usually use it to call people when driving than for general smartphone tasks.
+
+Android 4.4 is also more tightly integrated with Google+ than previous versions. Hangouts, the Google+ group chat app, is now the default for messaging, so you can choose whether to send an SMS to a phone number or a Hangout message to someone in your Google+ circles. If your contacts don’t use Hangouts on their phones the message will appear when they next log in to Google+, but strangely not in the notification area of the Google homepage. We found this made it easy for messages to be ignored, so we had to be careful to send messages via SMS rather than Hangouts if the recipient wasn't a habitual Google+ user. You could always make sure this doesn’t happen by using a third-party SMS app from Google Play. 
+
+
+NEXUS 5 CAMERA
+
+Google makes a big deal about the capabilities of the Nexus 5's camera, and it has some fun features. Photo Sphere, which has been around since Android 4.2 but has some improvements for 4.4, lets you take 360-degree photos by slowly rotating the camera. We were impressed with the stitching, which was almost flawless, apart from some slightly sheared text on the side of a van. The panorama mode also works well, creating an ultra-wide photo as you pan the camera, without your having to press any buttons. 
+
+We weren't so keen on the overall design of the camera app, as the options are hidden in various sub-menus, making the app fiddly to use unless you just want to point and shoot. Quality, on the other hand, was fine. The Nexus 5 has an 8-megapixel sensor, which is few pixels by current standards, but images were generally fine in daylight, with accurate colours and well-resolved details, if some over-exposure in the sky. You lose detail quickly as you crop in due to the low pixel count, though. Photos were reasonable in low light, but noise reduction led to some smudgy details. It's not the best camera we've seen, and is the only evidence of LG compromising to keep the Nexus 5's price down, but it's still more than adequate for most uses. 
+
+When we first got the Nexus 5 with Android 4.4 it wasn’t the quickest phone we’d seen to focus and takes shots, it wasn’t awful either but did feel a little sluggish. An update to Android to 4.4.1 (followed by a small bug fix to bring it up to 4.4.2) did noticeably improve things though. The camera now starts up far faster and is quicker to focus, with less shutter lag after you tap the screen.
+
+The results look largely the same, though its tendency to over exposure has been toned down, colours have been warmed up a little, and it looks fractionally sharper to our eyes. It’s a little grainier as well, so we imagine this has been a tweak to its noise-reduction algorithm. Another tweak appears to be that the camera prefers faster shutter speeds and higher ISOs (for sharper but noisier shots) over its previous preference for slow shutter speeds and lower ISOs (which largely produced blurred images).
+
+
+NEXUS 5 VIDEO
+
+The Photos have been improved then, but the quality of the video footage was always rather good. When filming outside in the street, we saw lifelike detail, strong colours and little noise in the 1080p footage, but the lack of optical image stabilisation means some camera shake is inevitable.
+
+When compared side by side with the video from a Samsung Galaxy S4, which itself has a high-quality video camera, the S4's footage had significantly more noise and some interference on repeating surfaces, such as brickwork. We much preferred the Nexus 5's video in daylight. 
+
+NEXUS 5 ANDROID 4.4.1 and 4.4.2
+
+We’ve already discussed the main improvements from the post-release updates to Android 4.4 on the Nexus 5 in the camera section. There are a few other notable changes though. First, the maximum volume of the speaker has been upped considerably, it’s now much louder turned up full, and though it starts to distort a little at maximum volume, it’s certainly a nice additional option for when you want to watch a YouTube video with a friend.
+
+The update was reported however to cause excessive battery drain for some users, something that may be related to the use of Skype or other certain third-party apps which access the camera. For more details see our article: Google Nexus 5 battery drain camera bug fix in the works. We haven't noticed the problem on our handset.
+
+
+NEXUS 5 CONCLUSION
+
+The Nexus 5 is a fantastic phone for the money. We love Android 4.4, the Full HD screen is excellent, the phone is seriously fast and, if 16GB of storage from the £299 version isn’t enough, the 32GB edition is a reasonable £40 more. Better still you can buy the handset now SIM-free for £20 less than the RRP, just £280 from Carphone Warehouse.
+
+The Google Nexus 5’s only drawback is battery life; it managed just 7h 22m in our video playback test, which is three hours less than we expect to see from a modern smartphone. If you use your phone intensively, you'll need to top it up during the day. This is the handset's only real flaw, and isn’t enough to stop it winning a Best Buy award.

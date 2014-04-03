@@ -1,0 +1,12 @@
+This paper describes image feat ures that have many properties that make them suitable for matching differing images of an o bject or scene
+
+In addition, the features are highly distinctive, which allows a single feature to be corr ectly matched with high probability against a large database of features, providing a basis for o bject and scene recognition
+
+An important aspect of this approach is that it generates lar ge numbers of features that densely cover the image over the full range of scales and loca tions
+
+The quantity of features is partic- ularly important for object recognition, where the ability to detect small objects in cluttered backgrounds requires that at least 3 features be correctly m atched from each object for reli- able identification
+
+A new image is matched by individually comparing each feature from the new image to this previous database and finding candidate match- ing features based on Euclidean distance of their feature ve ctors
+
+However, in a cluttered image, many features from the background will not have any co rrect match in the database, giving rise to many false matches in addition to the correct o nes
+
